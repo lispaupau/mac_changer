@@ -1,0 +1,3 @@
+# DESCRIPTION: Application to change mac address via linux terminal
+# Use linux terminal command 'python3 mac_changer.py -i #network_name -m #new_mac_address'
+# Example - 'python3 mac_changer.py -i wlan0 -m 00:11:22:33:44:55'
